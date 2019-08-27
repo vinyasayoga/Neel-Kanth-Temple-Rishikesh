@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vinyasayoga/visit-Neel-Kanth-Temple-Rishikesh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinyasayoga/visit-Neel-Kanth-Temple-Rishikesh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Rishikesh is the land of lords. It is one of the popular Hindu pilgrimages destinations in India. It is the perfect combination of pilgrimage, adventure, wildlife, yoga, and meditation. The holy city situated in the state of Uttarakhand invites millions of devotees to the beautiful city to experience inner peace and take their spirituality to the next level. 
+No matter either you are a devotee of looking for some adventure in the beautiful river of Ganga, Rishikesh promises you everything that you are expecting in the holy land of Rishikesh. The place offers numerous sightseeing, including magnificent temples, ashrams, etc. Being the spiritual capital of the world, Rishikesh also offers the best <a href="https://rishikeshvinyasayogaschool.com/yoga-teacher-training-india/
+">yoga teacher training</a> for the people who are looking forward to enjoy a healthy lifestyle. 
+<h2>Neel Kanth: The Holy Shrine at Rishikesh</h2>
+Situated at a distance of 26.5 Km from Rishikesh and 50 km from Haridwar Neelkanth Mahadev temple is of the ancient Hindu temple situated at the height of 1330 meters from the sea level. This is one of the popular temples in Uttarakhand as well as among the top places to visit in Rishikesh.
+Neel Kanth temple in Rishikesh is a holy shrine dedicated to Lord Shiva. It is surrounded by dense forest as well as it is adjacent to the mountain ranges of Nar Narayan. The valleys like Manikoot, Brahmakoot, and Vishnukoot is situated near the temples. River Pankaja and Madhumati join the valleys. According to Hindu mythology, this is the place where Lord Shiva consumed poison that originated from the sea. Once after consuming the poison, he stopped the poison in the throat due to which his throat turned blue. From that onwards, Lord Shiva is known as NeelKanth. 
+The temple is constructed with magnificent architecture. The exterior of the temple is designed, which shows you the mythological stories of the Samundra Manthan. The tourists can see the story and carvings depicted on the walls of temples. The colorful idols of Devas and Asuras with lord Shiva is seen consuming poison.
+The tourists can see the life-size idol of goddess Parvati. There is a holy spring where devotees can take a bath before entering the temple premises. The inner complex of the temple is equally divine and beautiful. With sacred Shivlinga situated in the holy shrine makes the place worth visiting. There is a gigantic Peepal tree situated in the temple where the devotees tie up a sacred thread to fulfill their wish.
+The temple celebrates two occasions annually, i.e., Maha Shivratri in Feb/Mar and Shraavana Shivratri in July/Aug. During the holy period of Shraavana, the devotes trek from Haridwar to Neekanth Mahadev Temple. The devotees offer Bael leaves, flowers, milk, and holy water to the almighty god. The tourists can easily reach to this temple with the help of the taxi and other modes of transportation. The route to this temple offers a lot of scenic beauty. 
+<h3>The Final Thoughts</h3>   
+The best reason to visit Neel Kanth Temple in Rishikesh is to have the blessing of the almighty god as well as enjoy the beautiful place. Being the spiritual capital of India, Rishikesh offers the best either for the pilgrimage or for sports activities. For trekkers who love trekking, there is a route of 22 km from Ram Jhula.      
